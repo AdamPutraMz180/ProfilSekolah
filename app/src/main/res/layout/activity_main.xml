@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
-            android:orientation="horizontal" >
+            android:orientation="horizontal">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -52,6 +52,7 @@
                     android:layout_marginEnd="16dp"
                     android:layout_marginBottom="16dp"
                     android:src="@drawable/school" />
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="48dp"
@@ -89,7 +90,7 @@
                     android:layout_marginTop="16dp"
                     android:layout_marginEnd="16dp"
                     android:layout_marginBottom="16dp"
-                    android:src="@drawable/stationery" />
+                    android:src="@drawable/R" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -144,7 +145,7 @@
                     android:layout_height="110dp"
                     android:layout_gravity="center"
                     android:layout_margin="16dp"
-                    android:src="@drawable/R" />
+                    android:src="@drawable/stationery" />
 
                 <TextView
                     android:layout_width="wrap_content"
